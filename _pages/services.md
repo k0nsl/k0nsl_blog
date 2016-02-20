@@ -18,7 +18,7 @@ metric-2-score:
 ---
 <div class="et-box et-shadow">
 <div class="et-box-content">
-<p>This was written back in 2012 and isn't relevant anymore, but if you really do need hosting I strongly recommend <a href="https://clientarea.ramnode.com/aff.php?aff=1058" target="_blank">RamNode</a>!</p>
+<p>This was written back in 2012 and isn't relevant anymore, but if you really do need hosting I strongly recommend <a href="https://clientarea.ramnode.com/aff.php?aff=1058" target="_blank">RamNode</a> or <a href="https://my.frantech.ca/aff.php?aff=781" target="_blank">BuyVM</a>!</p>
 </div></div>
 
 I'm offering free web hosting on this server (<a href="http://gondor.holocaust-news.com">Gondor</a>) for people who need a place for their personal Web Pages or for people who simply need hosting for a personal project. It's all free, without restrictions or any particular limitations. All I ask is occasional donations via <a title="Support k0nsl" href="https://flattr.com/thing/935700/My-personal-platform-">Flattr</a>, but this is all voluntary - however, you can support me through this way  <img class="wpml_ico" src="http://k0nsl.org/blog/wp-content/plugins/wp-monalisa/icons/icon_thumbup.gif" alt="" />
