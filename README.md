@@ -1,2 +1,2 @@
-# k0nsl_blog
-blog posts
+# k0nsl's blog
+mirrored blog posts from my personal platform.
