@@ -95,7 +95,7 @@ Neither of these areas ever, at any time in recorded history had been settled by
 The human rights abuses, the murders, the plundering etc. committed by the Poles knew almost no end. It was utterly horrific. All of this was cynically witnessed by the "oh-so-benign, democratic, fair-minded and humanistic" French and British. The rape of Germany was on auto-pilot, fuelled by the Catholic clergy of Poland who delighted in seeing German women and children terrorized, abused, robbed, beaten to death and demeaned by the de-humanized Polish hordes. Needless to say, this was a lesson in 'democracy' the German people did not forget.
 
 The Poles who owed their very existence as a country to Germany, not only raped, murdered and plundered with typical Slavic frenzy but they also:
-<ol>
+<ul class="list-2">
 	<li><strong>Closed German schools</strong></li>
 	<li><strong>Prohibited the German language</strong></li>
 	<li><strong>Prohibited German church services</strong></li>
@@ -103,7 +103,7 @@ The Poles who owed their very existence as a country to Germany, not only raped,
 	<li><strong>Prohibited German names</strong></li>
 	<li><strong>Closed German newspapers and confiscated all printing presses</strong></li>
 	<li><strong>Closed all German cultural institutions.</strong></li>
-</ol>
+</ul>
 While Polish territory was under the control of the Austro-Hungarian and Russian empires, their language, schools, newspapers and religious institutions all enjoyed complete, unfettered freedom. Never, ever did a German deny a Pole his right to his own culture. Never. The Polish hatred was something uncanny, something quite insane, not in any manner justified, totally unexplainable.
 
 Not only did they commit massive human-rights violations, stole huge chunks of ancient, never-ever Polish territory sanctioned by the horrible Treaty of Versailles, but they began to rob Germany's culture. It was at that time, that Polish academics (mostly educated in Germany!) started to publish an encyclopaedia. In this encyclopaedia historical lies ran (and run) rampant including the branding of Kopernicus as "Polish".
@@ -143,13 +143,13 @@ Surely, if ever a country was pushed into a corner and very literally forced to 
 Pushed beyond the brink of that which can be endured, Germany invaded Poland in September 1939 to the joy of a drunken Winston Churchill who immediately and predictably betrayed his Polish 'allies' by failing to send the promised support. The 'brave' Polish government which had been guilty of forcing this war fled of course, not a one of them having the courage to fight.
 
 The Polish military collapsed on all fronts despite the unquestioned bravery of their cavalry and some of their valiant infantry troops. Polish authorities behind the front lines began massacring ethnic German civilians in an orgy of blood-lust, particularly at Bromberg, were over 8500 German women, children and even priests were slaughtered wholesale during one Sunday. It is not known whether the Poles committed the mass-murder/tortures after or before Sunday church services. Scenes the likes of which not even a Jew-pervert could dream up were found by German troops entering the city:
-<ol>
+<ul class="list-2">
 	<li><span style="color: #ff0000;"><strong>Tortured to death and dismembered men with their bellies cut open and murdered German children stuffed into them</strong></span></li>
 	<li><span style="color: #ff0000;"><strong>Pregnant German women gang-raped, vaginas torn open, breasts cut off, hung by their feet from rafters and their embryos cut out of their bodies. Autopsies revealed that these women had been fully conscious during their unspeakable ordeals.</strong></span></li>
 	<li><span style="color: #ff0000;"><strong>Old men beaten to death</strong></span></li>
 	<li><span style="color: #ff0000;"><strong>German babies with their skulls crushed.</strong></span></li>
 	<li><span style="color: #ff0000;"><strong>And the list of horrors discovered by German soldiers has literally no end.</strong></span></li>
-</ol>
+</ul>
 The present-day Polish Pope was at that time a priest in Cracow spoke not a word of protest.
 
 No, this isn't all. Far from it. After the collapse of the German armies in Poland late 1944, the Poles committed more human-rights abuses, more murders, more horrors, more rapes, more child-thefts, more thefts of personal properties, than can even be imagined.
@@ -165,8 +165,6 @@ On the contrary, former Polish President Lech Walesa, that paragon of virtue, th
 <strong>There are history books extant which tell the tale, but none of them are generally available. The German documentation, which is massive, is locked away in some vault somewhere by the traitorous German government. It is hoped all will be forgotten, that Germans will never know. Sorry folks, but there is the Internet and there are people like me who won't permit any of this to be forgotten. Ever</strong>
 
 &nbsp;
-
-<hr />
-
-<h2>Author</h2>
-<span style="font-family: arial, helvetica, sans-serif;">Gerry Frederics / Edited by k0nsl</span>
+<h5><span>Information</span></h5>
+Author: Gerry Frederics
+Edited by k0nsl</span>
