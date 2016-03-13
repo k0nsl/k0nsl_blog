@@ -41,4 +41,4 @@ Enter Carl-Heinrich von Stülpnagel. Below we can see in-action such a claim, b
 
 Some people must learn that saying so does not make it so. Wikipedia is notorious for containing baseless and often completely misleading information when it comes to this, but when one reads the pages on Stülpnagel -- and even those with relation to Cäsar (von Hofacker) -- there's no mention of Stülpnagel being tortured for weeks by the Gestapo. Same with Nizkor, they often mention torture by the Gestapo but leaves out any and all of the alleged evidence for this.
 
-MacLoyful and others must learn that you just can't say such things and get away without being challenged <img class="wpml_ico" alt="" src="/blog/wp-content/plugins/wp-monalisa/icons/icon_yawn.gif" />
+MacLoyful and others must learn that you just can't say such things and expect to get away without being challenged <img class="wpml_ico" alt="" src="/blog/wp-content/plugins/wp-monalisa/icons/icon_yawn.gif" />
