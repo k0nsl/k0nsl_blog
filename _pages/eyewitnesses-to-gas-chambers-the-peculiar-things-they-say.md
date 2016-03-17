@@ -113,11 +113,9 @@ Gazette, Montreal, Canada, August 5, 1993</blockquote>
 - Here's more real "evidence" - Killing in vacuum chamber, with steam, or chlorine gas, from: W. Grossmann, Die Hölle von Treblinka, Verlag für fremdsprachige Literatur, Moscow 1947; The Black Book of Polish Jewry, Roy Publishers, New York 1943.
 <blockquote>- "There was a blue haze after gassing with hydrocyanic acid" [which is colorless] - R. Böck, Frankfurt Public Prosecutor's Office, Ref. 4 Js 444/59, pp. 6881f.</blockquote>
 <blockquote>“In retreat the stationary gas chambers in the eastern part of the camp were restructured, even little turrets and other architectural embellishments were added so that they would look like innocent garages." - ‘The Factory of Death at Auschwitz’ Boris Polevoi, Pravda, 1945</blockquote>
-<blockquote>Communist Jew, Bruno Baum, himself a member of the 'partisans', boasted after the war: "The entire propaganda which started abroad, was made by us with the help of our Polish mates." - Bruno Baum, »Wir funken aus der Hölle« in Deutsche Volkszeitung - Zentralorgan der KPD, Berlin 31.7.1945.; cf. B. Baum</blockquote>
-<blockquote>"…It is not necessary to ask oneself how, technically, such a mass murder was possible. It was technically possible since it took place. Such is the point of departure required of any historical enquiry on the subject. This truth obliges us to state quite simply: there is not, there cannot be, any debate on the existence of the gas chambers."
-
-- from a declaration, published in Le Monde, feb 21, 1979. Written by Pierre Vidal-Naquet and Léon Poliakov. And signed by 34 "historians"</blockquote>
-&nbsp;
+Communist Jew, Bruno Baum, himself a member of a 'partisan' group, boasted after the war: <strong><em>"The entire propaganda which started abroad, was made by us with the help of our Polish mates."</em></strong> - Bruno Baum, »Wir funken aus der Hölle« in Deutsche Volkszeitung - Zentralorgan der KPD, Berlin 31.7.1945.; cf. B. Baum.
+<blockquote>"…It is not necessary to ask oneself how, technically, such a mass murder was possible. It was technically possible since it took place. Such is the point of departure required of any historical enquiry on the subject. This truth obliges us to state quite simply: there is not, there cannot be, any debate on the existence of the gas chambers. &mdash; from a declaration, published in Le Monde, feb 21, 1979. Written by Pierre Vidal-Naquet and Léon Poliakov. And signed by 34 "historians"</blockquote>
+&nbsp;"
 
 And so it goes with each and every "eyewitness" to alleged gassings and their supporters. Their stories are patently absurd; but if you don't believe in them you could go to jail.
 
