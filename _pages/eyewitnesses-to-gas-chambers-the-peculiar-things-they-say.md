@@ -65,7 +65,7 @@ Peculiar, Daniel Bennahmias was not killed and was in fact given a choice of sta
 
 &nbsp;
 
-- Filip Mueller, whose laughable beststeller "Sonderbehandlung" Raul Hilberg quotes no less than 20 times as a source in his standard work about the "Holocaust" - described how he ate cake in a cyanide-saturated gas chamber
+- Filip Müller, whose laughable beststeller "Sonderbehandlung" Raul Hilberg quotes no less than 20 times as a source in his standard work about the "Holocaust" - described how he ate cake in a cyanide-saturated gas chamber
 
 &nbsp;
 
