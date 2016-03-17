@@ -118,7 +118,7 @@ Communist Jew, Bruno Baum, himself a member of a 'partisan' group, boasted after
 
 And so it goes with each and every "eyewitness" to alleged gassings and their supporters. Their stories are patently absurd; but if you don't believe in them you could go to jail.
 
-[divider]Information[/divider]
+[divider]Metadata[/divider]
 
 Author: <a href="http://forum.codoh.com" title="Hannover @ CODOH" target="_blank">Hannover</a>.
 Edited by k0nsl.
