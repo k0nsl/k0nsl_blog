@@ -428,8 +428,8 @@ to our accomplishments, au contraire - they admire us!</li>
 <li>Koreans have never had a plan to annihilate Germany, England has - it was
 called the `Lindemann Plan´ and the USA have had two (!) they were called
 the `Morgenthau Plan´ and the `Kaufmann Plan´.</li>
-<li>Korean newspapers did not celebrate such mass-murder genocidal plans as</li>
-did America´s  Time magazine and the Financial Times of London.</li>
+<li>Korean newspapers did not celebrate such mass-murder genocidal plans as
+did America´s  Time magazine and the Financial Times of London.
 <li>Koreans have not stolen German territory.</li>
 <li>Koreans have not mass-murdered our population.</li>
 <li>Koreans have not tortured German soldiers to death.</li>
