@@ -466,7 +466,7 @@ Japan.</li>
 in many cases.</li>
 <li>Korean social responsibility is fabulous, admirable and should be a model
 for the entire west.</li>
-<li>Korean workers who work for Kia or Hyundai would not think of driving any</li>
+<li>Korean workers who work for Kia or Hyundai would not think of driving any
 other make of car.</li>
 <li>Korean workers who work for Samsung would not either!</li>
 <li>Korean factories are famed for their social programs and sense of
