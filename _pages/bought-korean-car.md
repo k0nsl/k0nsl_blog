@@ -417,63 +417,65 @@ tunnel, but buy one of their cars? No, I don´t think so.
 <h3>What´s Left?</h3>
 
 Well, what is left is  - Korean products.
-. Korea has not stolen from Germany.
-. Korea has not vilified Germany.
-. Korea has not attempted to bomb us into the stone age.
-. Korea does not spread anti-German hatred in their schools.
-. Korea does not spread anti-German hatred in their newspapers.
-. Koreans do not blindly hate us. Koreans are not consumed with jealousy due
-to our accomplishments, au contraire - they admire us!
-. Koreans have never had a plan to annihilate Germany, England has - it was
+<ul class="list-2">
+<li>Korea has not stolen from Germany.</li>
+<li>Korea has not vilified Germany.</li>
+<li>Korea has not attempted to bomb us into the stone age.</li>
+<li>Korea does not spread anti-German hatred in their schools.</li>
+<li>Korea does not spread anti-German hatred in their newspapers.</li>
+<li>Koreans do not blindly hate us. Koreans are not consumed with jealousy due
+to our accomplishments, au contraire - they admire us!</li>
+<li>Koreans have never had a plan to annihilate Germany, England has - it was
 called the `Lindemann Plan´ and the USA have had two (!) they were called
-the `Morgenthau Plan´ and the `Kaufmann Plan´.
-. Korean newspapers did not celebrate such mass-murder genocidal plans as
-did America´s  Time magazine and the Financial Times of London.
-. Koreans have not stolen German territory.
-. Koreans have not mass-murdered our population.
-. Koreans have not tortured German soldiers to death.
-. Koreans have not framed German military men in order to execute them after
-mock trials which shamed anyone who has had a sense of basic decency.
-. Koreans have not declared war on us time and again - only to then turn the
-history books upside down.
-. Koreans have not had a hand in the incessant vilification of my nation.
-. Koreans have not created `independent´ nations carved from our territory
-while we were helpless.
-. Koreans have not insulted us in out football stadiums the way the English
-did.
-. Koreans have not stolen the World Cup from us, as the English did in 1966
+the `Morgenthau Plan´ and the `Kaufmann Plan´.</li>
+<li>Korean newspapers did not celebrate such mass-murder genocidal plans as</li>
+did America´s  Time magazine and the Financial Times of London.</li>
+<li>Koreans have not stolen German territory.</li>
+<li>Koreans have not mass-murdered our population.</li>
+<li>Koreans have not tortured German soldiers to death.</li>
+<li>Koreans have not framed German military men in order to execute them after
+mock trials which shamed anyone who has had a sense of basic decency.</li>
+<li>Koreans have not declared war on us time and again - only to then turn the
+history books upside down.</li>
+<li>Koreans have not had a hand in the incessant vilification of my nation.</li>
+<li>Koreans have not created `independent´ nations carved from our territory
+while we were helpless.</li>
+<li>Koreans have not insulted us in out football stadiums the way the English
+did.</li>
+<li>Koreans have not stolen the World Cup from us, as the English did in 1966
 with the help of a terrorized linesman who did not dare make the right call
 for fear of his life. If I were a German athlete, I would refuse to
 participate in any event held at Wimbledon Stadium, where this infamous deed
 was done, to the hypocritical applause of the British Football Association,
-those disgraceful thieves.
-. Koreans did not steal two Gold Medals in the Olympic Games from us as the
-English and Americans did in Athens.
-. Koreans were the best behaved, the most civilized football fans during the
-recent World Cup, the English were disgusting, brutal and hostile.
-. Koreans left the stands and the German clean-up services had nary a paper
+those disgraceful thieves.</li>
+<li>Koreans did not steal two Gold Medals in the Olympic Games from us as the
+English and Americans did in Athens.</li>
+<li>Koreans were the best behaved, the most civilized football fans during the
+recent World Cup, the English were disgusting, brutal and hostile.</li>
+<li>Koreans left the stands and the German clean-up services had nary a paper
 cup to pick up, the English left a trash heap in Cologne (before a game!)
-unequalled in sporting history.  This British trash heap included human
-feces and pools of urine.
-. Koreans did not taunt the German police as `Nazi Pigs´ as the English
-soccer hoodlums did in Berlin during the last World Cup.
-. Korean products are world class, unlike those of Britain which have
-suffered from poor workmanship for many decades.
-. Korean cars have come of age and easily equal the best from Europe or
-Japan.
-. Korean work ethic is the equal of the German one and a damned sight better
-in many cases.
-. Korean social responsibility is fabulous, admirable and should be a model
-for the entire west.
-. Korean workers who work for Kia or Hyundai would not think of driving any
-other make of car.
-. Korean workers who work for Samsung would not either!
-. Korean factories are famed for their social programs and sense of
+unequalled in sporting history. This British trash heap included human
+feces and pools of urine.</li>
+<li>Koreans did not taunt the German police as `Nazi Pigs´ as the English
+soccer hoodlums did in Berlin during the last World Cup.</li>
+<li>Korean products are world class, unlike those of Britain which have
+suffered from poor workmanship for many decades.</li>
+<li>Korean cars have come of age and easily equal the best from Europe or
+Japan.</li>
+<li>Korean work ethic is the equal of the German one and a damned sight better
+in many cases.</li>
+<li>Korean social responsibility is fabulous, admirable and should be a model
+for the entire west.</li>
+<li>Korean workers who work for Kia or Hyundai would not think of driving any</li>
+other make of car.</li>
+<li>Korean workers who work for Samsung would not either!</li>
+<li>Korean factories are famed for their social programs and sense of
 responsibility toward their work force, whereas the European manufacturers
 are headed by corrupted scum who collect multi-millions of Euros in
-salaries, while firing tens of thousand of workers.
-. Korean industries do not outsource their jobs, thereby causing lack of
-work, homelessness and despair amongst their own.
+salaries, while firing tens of thousand of workers.</li>
+<li>Korean industries do not outsource their jobs, thereby causing lack of
+work, homelessness and despair amongst their own.</li>
+</ul
 
 That is why I buy Korean and feel good about it.
 
