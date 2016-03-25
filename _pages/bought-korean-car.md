@@ -66,7 +66,7 @@ them on the trash heap of history. VW spent untold multi-millions buying
 decrepit Rolls Royce, training their useless workers and designing the best
 Rolls Royce ever to be put into traffic.
 
-Not only that, they didn´t even put their name on it, and the rich who are
+Not only that, they didn't even put their name on it, and the rich who are
 buying this best Rolls Royce of all times are under the impression it is an
 English car.
 In short, they saved the icon of the British automotive world, a world which
@@ -262,7 +262,7 @@ German treasure trove of technology I am not sure, but knowing the Japanese,
 they no doubt did.
 
 <h4>The Optical Industry</h4>
-The Japanese didn´t even know how to spell `camera´ until they stole their
+The Japanese didn't even know how to spell `camera´ until they stole their
 first Agfa. German cameras, micro cameras (as in James Bond type stuff) film
 development, color film development, optical lenses, optical mirrors, any
 and all things optical were forever world leading. They were the envy of the
@@ -319,7 +319,7 @@ exactly that.
 
 <h3>Home Electronics</h3>
 This subject is so huge, I will only state a few facts and leave it at that.
-The Japanese did´nt know how to spell `radio´ until they stole their first
+The Japanese didn't know how to spell `radio´ until they stole their first
 Grundig in the middle fifties. Germany´s home electronics industry was
 stupendous, there is no other word. The Japanese bought every German stereo
 set, every turntable, every loud speaker, every tape deck, every type of
