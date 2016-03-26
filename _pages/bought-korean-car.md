@@ -429,7 +429,7 @@ to our accomplishments, au contraire - they admire us!</li>
 called the `Lindemann Plan´ and the USA have had two (!) they were called
 the `Morgenthau Plan´ and the `Kaufmann Plan´.</li>
 <li>Korean newspapers did not celebrate such mass-murder genocidal plans as
-did America´s  Time magazine and the Financial Times of London.
+did America´s  Time magazine and the Financial Times of London.</li>
 <li>Koreans have not stolen German territory.</li>
 <li>Koreans have not mass-murdered our population.</li>
 <li>Koreans have not tortured German soldiers to death.</li>
@@ -475,7 +475,7 @@ are headed by corrupted scum who collect multi-millions of Euros in
 salaries, while firing tens of thousand of workers.</li>
 <li>Korean industries do not outsource their jobs, thereby causing lack of
 work, homelessness and despair amongst their own.</li>
-</ul
+</ul>
 
 That is why I buy Korean and feel good about it.
 
