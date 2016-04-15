@@ -9,7 +9,7 @@ permalink: >
   https://k0nsl.org/blog/custom-raspberry-pi-3-case/
 published: true
 ---
-This is my custom Raspberry Pi 3 case -- the material is birch wood and might have been sourced at Birkenau (I'm joking). However, it is birch wood, though. The plan is to use this RPi3 as another device for various development tasks.
+This is my custom Raspberry Pi 3 case -- the material is birch wood and might have been sourced at <a href="http://eh.mirror.k0nsl.org/" target="_blank">Birkenau</a> (I'm joking). However, it is birch wood, though. The plan is to use this RPi3 as another device for various development tasks.
 My RPi 2 Model B is feeling rather sluggish when it comes to compiling projects, etc,. Hence, this upgraded device will certainly help in that respect.
 
 Here are some inexcusably poor photographs. I'm stuck with an awful camera at the moment <img class='wpml_ico' alt='' src='https://k0nsl.org/blog/k1/plugins/wp-monalisa/icons/rant.gif' />
