@@ -20,6 +20,7 @@ These are the current mirrors, in no particular order:
 	<li><a class="postlink" title="" href="http://tldotbl.mirror.k0nsl.org/" rel="nofollow" data-original-title="">The Last Days of the Big Lie</a></li>
 	<li><a class="postlink" title="" href="http://eh.mirror.k0nsl.org/" rel="nofollow" data-original-title="">The Majdanek Gas Chamber Myth</a></li>
 	<li><a class="postlink" title="" href="http://gaschamberhoax.mirror.k0nsl.org/" rel="nofollow" data-original-title="">Treblinka Archaeology Hoax video</a></li>
+        <li><a class="postlink" title="" href="http://questioningtheholocaust.mirror.k0nsl.org/" rel="nofollow" data-original-title="">Questioning The Holocaust - Why We Believed</a></li>
 </ul>
 Apart from my own mirrors you can find his work at <a class="postlink" title="" href="http://holocausthandbooks.com/index.php?author_id=15" rel="nofollow" data-original-title="">Holocaust Handbooks</a>, as well. Have I missed anything, or do you want me to mirror other important work? Give me suggestions. You can reach me via the <a title="k0nsl-subrosa" href="https://k0nsl.org/blog/an-update-on-the-subrosa-situation/">private chat</a>. Any suggestions are welcome if you think it would be worth having the material archived. I've got the resources to do it.
 
