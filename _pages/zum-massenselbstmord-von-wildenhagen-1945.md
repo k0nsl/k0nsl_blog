@@ -17,6 +17,7 @@ published: true
 Seit Bundespräsident Richard von Weizsäckers Rede am 8. Mai 1985 zum 40. Jahrestag der Kapitulation der deutschen Wehrmacht wird dieses Datum den deutschen als „Tag der Befreiung“ eingehämmert. Doch wie die Wirklichkeit aussah und wie die „Befreier“ handelten, wird verschweigen. Zigtausende deutscher Frauen, die nicht früh genug fliehen konnten, gingen in Ostdeutschland mit ihren Kindern in den Selbstmord, um sich und ihren Kindern das sichere Schicksal zu ersparen, das seit dem sowjetischen Massaker von Nemmersdorf, (Lesen Sie Der Fall Nemmersdorf) im östlichen Ostpreußen Ende 1944 bekannt war. Bezeichnenderweise ist über diese Geschehen noch keine Monographie veröffentlich worden, und dieses Themas nahmen sich die beamteten deutschen Historiker bisher auch noch nicht an.
 
 <img src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/05/wildenhagen01_k0nsl.jpg" alt="wildenhagen01_k0nsl" width="390" height="211" class="aligncenter size-full wp-image-7064" />
+<small>Die Kinder von Wildenhagen.  (Foto WDR) Jedes vierte Kind wurde ermordet</small>
 
 Ein seltenes Beispiel für die Medien über die furchtbaren Geschehnisse in Osten mit deutschen Zivilisten als Opfer brachten am 29. April 2005 um 21 Uhr das WDR-Fernsehen mit einem Bericht von Carmen Eckardt über die Vorgänge in dem Dorf  Wildenhagen beim Einmarsch der Roten Armee<sup>1</sup>.
 
