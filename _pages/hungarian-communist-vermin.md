@@ -51,4 +51,9 @@ This charming, blushing couple is Joseph Peczkai and Dr. Helen (Mrs. John) Peczk
 <img alt="" src="https://detox.k0nsl.org/graphs/HumanGarbage/Terrorists_1_30p.jpg" width="406" height="651" border="0" />
 <img alt="" src="https://detox.k0nsl.org/graphs/HumanGarbage/Terrorists_2_30p.jpg" width="401" height="649" border="0" />
 
-<span style="font-family: Open+Sans, Arial, Helvetica, sans-serif; font-size: small;">This is what the Germans fought against. <a title="An Outlaw's Diary" href="https://k0nsl.org/blog/detox-pages/an-outlaws-diary/#ftn229" target="_blank">These persons were the very scum of society</a>. Further comments are unnecessary, I think.</span>
+<span style="font-family: Open+Sans, Arial, Helvetica, sans-serif; font-size: small;">This is what the Germans fought against. <a title="An Outlaw's Diary" href="https://k0nsl.org/blog/detox-pages/an-outlaws-diary/#ftn229" target="_blank">These persons were the very scum of society</a>.
+Further comments are unnecessary, I think.</span>
+
+<div class="divider"><h5><span>Information</span></h5></div>
+
+This page is from my old 'holocaust' detox archive and the first paragraph was lifted from <a href="http://www.jrbooksonline.com/The_Godless.htm" target="_blank">"The Godless"</a> with minor modification.
