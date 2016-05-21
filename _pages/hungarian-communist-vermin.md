@@ -28,7 +28,7 @@ metric-2-score:
 <span style="font-family: Open+Sans, Arial, Helvetica, sans-serif; font-size: small;">
 This charming, blushing couple is Joseph Peczkai and Dr. Helen (Mrs. John) Peczkai. Apparently, there is some relation (in-laws?). They were just two of the thousands of vermin who participated in the Hungarian communist revolution of 1919, delightfully torturing and murdering everyone in sight. The Germans fought against such human garbage, only to be defeated by the “Allies” -- that is the thanks the Germans got. Ever since, vast numbers of “Peczkais” have been allowed to flow into Western countries with the blessing of “democratic” governments.</span>
 
-<h6><span style="font-family: Open+Sans;"><strong>Below are the native rulers of Hungary. This Germanic/Teutonic type was common throughout Europe at one time:</strong></span></h6>
+<h5><span style="font-family: Open+Sans;"><strong>Below are the native rulers of Hungary. This Germanic/Teutonic type was common throughout Europe at one time:</strong></span></h5>
 <img alt="" src="https://detox.k0nsl.org/graphs/OurRace/Queen_Zita_30p.jpg" width="407" height="554" border="0" />    <img alt="" src="https://detox.k0nsl.org/graphs/OurRace/Prince_Otto_30p.jpg" width="371" height="555" border="0" />
 
 <img alt="" src="https://detox.k0nsl.org/graphs/OurRace/King_Charles_30p.jpg" width="412" height="547" border="0" />    <img alt="" src="https://detox.k0nsl.org/graphs/OurRace/Tisza_30p.jpg" width="398" height="548" border="0" />
