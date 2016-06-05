@@ -39,4 +39,4 @@ Schriftsteller: Rolf Kosiek
 
 Quelle: Richtstellungen zur Zeitgeschichte Der Große Wendig (Band 4)
 
-Bearbeitet von: k0nsl (i.am@k0nsl.org und Goybbels.
+Bearbeitet von: k0nsl (i.am@k0nsl.org) und Goybbels.
