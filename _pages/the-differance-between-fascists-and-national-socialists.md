@@ -30,4 +30,4 @@ Loosely, the difference is that the National Socialists believed in the primacy 
 <h5><span>Information</span></h5>
 </div>
 <p>Author: Carlos W. Porter</p>
-<p>Modestly edited by k0nsl</p>
+<p>Edited by k0nsl (i.am@k0nsl.org)</p>
