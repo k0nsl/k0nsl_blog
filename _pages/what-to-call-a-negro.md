@@ -2,7 +2,7 @@
 ID: 7080
 post_title: What to call a Negro?
 author: k0nsl
-post_date: 2010-07-14 17:20:19
+post_date: 2007-12-27 17:20:19
 post_excerpt: ""
 layout: page
 permalink: >
