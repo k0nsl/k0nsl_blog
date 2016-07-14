@@ -9,7 +9,7 @@ permalink: >
   https://k0nsl.org/blog/responses/what-to-call-a-negro/
 published: true
 ---
-I have archived this response from the forum nordisk.nu, <a href="http://www.nordisk.nu/showthread.php?t=4315&p=160896&viewfull=1#post160896">see this thread</a> for original response. They deleted my account for no apparent reason.
+I have archived this response from when I was a member of the forum nordisk.nu, <a href="http://www.nordisk.nu/showthread.php?t=4315&p=160896&viewfull=1#post160896">see this thread</a> for original response. They deleted my account for no apparent reason.
 
 So:
 <blockquote>What to call a Negro?</blockquote>
