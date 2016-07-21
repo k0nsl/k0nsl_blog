@@ -17,3 +17,7 @@ metric-2-score:
   - "4"
 ---
 <iframe src="https://kiwiirc.com/client/survivor.k0nsl.org/?nick=amalek_?&theme=cli#k0nsl" style="border:0; width:100%; height:450px;"></iframe>
+
+<hr>
+
+Feel free to use this <a href="https://webirc.k0nsl.ru/">self-hosted webIRC client</a>. I think it's quite good.
