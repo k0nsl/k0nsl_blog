@@ -51,5 +51,4 @@ metric-2-score:
 
 <center>k0nsl was last seen on <a href="https://survivor.k0nsl.org/webirc.html" title="k0nslIRC" target="_blank">k0nslIRC</a> at exactly <a id="lastseen">0</a> <img class='wpml_ico' alt='' src='https://k0nsl.org/blog/k1/plugins/wp-monalisa/icons/icon_wave.gif' /></center>
 
-<strong>Yay, it works!</strong>
 [/tabs]
