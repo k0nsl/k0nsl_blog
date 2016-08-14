@@ -21,9 +21,7 @@ post_views_count:
 
 <div class="et-box et-shadow">
 <div class="et-box-content"><p>Author:&nbsp;Lesley Beck</p>
-<br class="none">
 <p>Artwork: Lesley Beck</p>
-<br class="none" />
 Edited by k0nsl</p>
 </div></div>
 
