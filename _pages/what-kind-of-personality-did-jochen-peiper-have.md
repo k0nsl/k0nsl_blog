@@ -31,7 +31,7 @@ Edited by k0nsl</p>
 &nbsp;
 
 <p style="text-align: center;"><a href="https://k0nsl.org/blog/k1/uploads/2013/06/jochen-peiper02_k0nsl.jpg"><img src="https://k0nsl.org/blog/k1/uploads/2013/06/jochen-peiper02_k0nsl.jpg" alt="jochen-peiper02_k0nsl" width="480" height="350" class="aligncenter size-full wp-image-5621" /></a></p>
-Peiper was a great commander. His men (in <a href="http://en.wikipedia.org/wiki/Joachim_Peiper" target="_blank">Kampfgruppe Peiper</a>) speak very highly of him, they say he was like a brother or an "uncle figure" who always had time for them.
+Peiper was a great commander. His men in <a href="https://k0nsl.org/blog/detox/ss-standartenfuhrer-joachim-jochen-peiper-2/" target="_blank">Kampfgruppe Peiper</a> speak very highly of him, they say he was like a brother or an "uncle figure" who always had time for them.
 
 Peiper had many layers! He was a good man, very fair. He was not particularly harsh, a pragmatist maybe, but not the evil person who others write about, and although a member of the NSDAP he was quite apolitical; he was a soldier first and foremost.
 
