@@ -128,7 +128,7 @@ Finally, when his men could take it no longer and began signing confessions whic
 
 Colonel Ellis, the prosecuting attorney visited Peiper in his cell. He was polite and militarily correct and gave Peiper to understand that he personally did not believe in any of the accusations, but that he would do his best nevertheless to obtain a conviction and to hang Peiper. A more perverse manner of thinking is quasi impossible to fathom.
 
-The trial itself took place at Dachau. During the trial evidence of innocence was prohibited. Grotesque stories by paid (!) witnesses were patiently listened to and meticulously noted for he record, whereas a defense was made impossible due to the defense not being allowed to call material witnesses. The prosecutions star witness, a certain Sergeant (US Army) Ahrens (disgracefully ethnic German) was later uncovered to have been a shameless liar and his entire damning testimony on which basis dozens of Germans had been executed was discredited.
+The trial itself took place at Dachau. During the trial evidence of innocence was prohibited. Grotesque stories by paid (!) witnesses were patiently listened to and meticulously noted for the record, whereas a defense was made impossible due to the defense not being allowed to call material witnesses. The prosecutions star witness, a certain Sergeant (US Army) Ahrens (disgracefully ethnic German) was later uncovered to have been a shameless liar and his entire damning testimony on which basis dozens of Germans had been executed was discredited.
 
 Confessions obtained under unspeakable torture were accepted at face value and none of he witnesses were ever subjected to cross examination.
 
@@ -139,10 +139,10 @@ Peiper himself was sentenced to death as well. His men and he accepted the decis
 McCarthy uncovered and publicized the tortures, the inhuman conditions of the prison, the perfidy of the court, the courts running rough shod over any and all legal principles and he called the trial what indeed it had been – a Lynching party and a disgrace for the United States.
 
 While on death row at Landsberg prison, Jochen Peiper wrote the following:
-<blockquote>The defensive frontline positions of Western Civilization form a wide circle, from the Caucasus to the land of he Finns. Representatives of our entire civilization are there to this day, guarding us quietly. Despite their graves being plundered and their fatherlands being ashamed of their most noble sons, we are indebted to this avant-garde of the European idea, for it is because of them, that the descendents of Genghis Kahn have not stationed their tanks on the coast of the Atlantic.</blockquote>
+<blockquote>The defensive frontline positions of Western Civilization form a wide circle, from the Caucasus to the land of he Finns. Representatives of our entire civilization are there to this day, guarding us quietly. Despite their graves being plundered and their fatherlands being ashamed of their most noble sons, we are indebted to this avant-garde of the European idea, for it is because of them, that the descendants of Genghis Kahn have not stationed their tanks on the coast of the Atlantic.</blockquote>
 Peiper spent many years on death row, until in 1951 his sentence was commuted to life in prison. In 1956 he was released from prison to make his living the best he could. He began a career as an automobile salesman for a Porsche agency in Frankfurt. Shamefully, he was let go under pressure from disgraceful persons of influence. VW had heard of his plight and offered him a position in Stuttgart, thence he moved with his faithful wife who had believed in him always and had stood by him during the worst possible times. This had been very difficult since the pressure to denounce her ´war criminal´ husband had been enormous. Soon dishonourable German cowards and the dark forces which controlled them discovered his whereabouts (was he denounced?) and put tremendous pressure on VW via a disgusting, malignant hate-campaign to fire him.
 
-It became clear to Peiper that he had no future in his fatherland. He had defended it to the last breath, had suffered tremendously, had been victimized by dishonourable American military torturers and ´judges´ and instead of honouring him a revolting campaign of biblical hate was unleashed against him – unequalled in its dishonesty and murderous intent.
+It became clear to Peiper that he had no future in his fatherland. He had defended it to the last breath, had suffered tremendously, had been victimized by dishonourable American military torturers and ´judges´ and instead of honouring him a revolting campaign of biblical hate was unleashed against him – unequaled in its dishonesty and murderous intent.
 
 It must be mentioned here, that the heinous injustice committed during his trial, the tortures and all the rest, have never (until this very day!) been made public in Germany. Very literally no one knows, for the information is not allowed to be published! Most Germans believe (and believe to this day) that this trial and many other similar ones were conducted fairly according to internationally accepted norms of jurisprudence. What is really shocking is that the majority of Germans do not even entertain the idea that something might be wrong. They refuse to accept the documented proof, that they have been lied to and misdirected for the period of over two generations!
 
@@ -200,6 +200,6 @@ Jochen , you are unforgettable and remain in our hearts.
 [divider]Information[/divider]
 
 Author: Gerry Frederics (gerard@germancross)
-Edited and corrected by k0nsl.
+Edited and corrected by k0nsl (i.am@k0nsl.org)
 
 <strong>Note:</strong> INCOMPLETE.
