@@ -26,7 +26,7 @@ I also have one add-in PCIe SATA III controller card as the motherboard itself h
 
 <img src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/10/k0nsl-nas-motherboard01_k0nsl-300x225.jpg" alt="k0nsl-nas-motherboard01_k0nsl" width="300" height="225" class="alignnone size-medium wp-image-7113" />
 
-As for the operating service. I was very unsure what to go with at the time of assembling the system. My friend bogeygoy suggested that I should use NAS4Free, as he was very satisfied with it himself. However, I wanted to check out something entirely new which wasn't very widely used.
+As for the operating service. I was very unsure what to go with at the time of assembling the system. My friend bogeygoy suggested that I should use NAS4Free, as he was satisfied with it himself. However, I wanted to check out something entirely new which wasn't very widely used.
 <a href="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/10/rockstor01_k0nsl.png"><img src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/10/rockstor01_k0nsl-300x169.png" alt="rockstor01_k0nsl" width="300" height="169" class="alignnone size-medium wp-image-7115" /></a>
 So, what did I pick? Well, it's called Rockstor<sup><a href="#fn2" id="ref2">[2]</a></sup> and it really was something very new at the time. The first public release was published in July 2015, so at the time I installed it one could say it wasn't a very widely used operating system.
 I am running version 3.8-14.22 and I'm pulling new releases from their test channel rather than the stable one. Yes, I like to live on the edge. The test channel, or branch, features new releases every five days (if there is one available). The stable release channel once every month. My system runs on kernel 4.6.
