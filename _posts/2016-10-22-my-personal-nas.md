@@ -37,7 +37,7 @@ The web interface of Rockstor has a rather pleasant design based on Bootstrap 3 
 
 <a href="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/10/rockstor03_k0nsl.png"><img src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/10/rockstor03_k0nsl-300x169.png" alt="rockstor03_k0nsl" width="300" height="169" class="alignnone size-medium wp-image-7117" /></a>
 
-Thanks to my water cooling solution the NAS itself is running both cool and quiet. The temperature inside of my house is 16 C and as of this moment the NAS is reporting these following readinga:
+Thanks to my water cooling solution the NAS itself is running both cool and quiet. The temperature inside of my house is 16 C and as of this moment the NAS is reporting the following readings:
 <pre>
 [root@nas01 ~]# uptime && sensors
  23:18:52 up 29 days,  8:04,  3 users,  load average: 0.27, 0.20, 0.16
