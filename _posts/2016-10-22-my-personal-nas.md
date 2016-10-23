@@ -21,7 +21,7 @@ It consists of the following hardware:
 <li><strong>Case:</strong> Corsair C70
 </ul>
 
-<img src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/10/k0nsl-nas-motherboard01_k0nsl-300x225.jpg" alt="k0nsl-nas-motherboard01_k0nsl" width="300" height="225" class="alignnone size-medium wp-image-7113" />
+<a href="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/10/k0nsl-nas-motherboard01_k0nsl.jpg"><img src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/10/k0nsl-nas-motherboard01_k0nsl-300x225.jpg" alt="k0nsl-nas-motherboard01_k0nsl" width="300" height="225" class="aligncenter size-medium wp-image-7113" /></a>
 
 That is practically it when it comes to the hardware powering my NAS. The custom water cooling is a overkill as it could have been cooled by a cheap heat sink coupled with a quiet fan...but what fun is that? <img class='wpml_ico' alt='' src='https://k0nsl.org/blog/k1/plugins/wp-monalisa/icons/evilgrin39.gif' />
 I also have one add-in PCIe SATA III controller card as the motherboard itself has very few SATA III ports, some cheap generic brand I bought via Ebay and which was made in China; it cost me €12.50 with shipping included in the price.
