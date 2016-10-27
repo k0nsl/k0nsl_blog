@@ -15,7 +15,7 @@ I have mirrored <sup>[1]</sup> most of Eric Hunt's documentaries, spread out ove
 
 You will be geolocated to a location that is closest to where you are, in most cases. This is particularly true for his documentary <strong><em>“The Majdanek Gas Chamber Myth”</em></strong> which is spread across six different locations so far.
 
-These are the current mirrors, in no particular order:
+These are the current mirrors and in no particular order:
 <ul class="list-2">
 	<li><a class="postlink" title="" href="http://tldotbl.mirror.k0nsl.org/" rel="nofollow" data-original-title="">The Last Days of the Big Lie</a></li>
 	<li><a class="postlink" title="" href="http://eh.mirror.k0nsl.org/" rel="nofollow" data-original-title="">The Majdanek Gas Chamber Myth</a></li>
