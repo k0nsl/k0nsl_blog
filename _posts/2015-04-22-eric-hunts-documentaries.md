@@ -23,7 +23,7 @@ These are the current mirrors, in no particular order:
         <li><a class="postlink" title="" href="http://questioningtheholocaust.mirror.k0nsl.org/" rel="nofollow" data-original-title="">Questioning The Holocaust - Why We Believed</a></li>
         <li><a class="postlink" title="" href="http://denialthefilm.mirror.k0nsl.org/" rel="nofollow" data-original-title="">The Rachel Weisz David Irving Deborah Lipstadt movie Denial</a></li>
 </ul>
-Apart from my own mirrors you can find his work at <a class="postlink" title="" href="http://holocausthandbooks.com/index.php?author_id=15" rel="nofollow" data-original-title="">Holocaust Handbooks</a>, as well. Have I missed anything, or do you want me to mirror other important work? Give me suggestions. You can reach me via the <a title="k0nsl-subrosa" href="https://k0nsl.org/blog/an-update-on-the-subrosa-situation/">private chat</a>. Any suggestions are welcome if you think it would be worth having the material archived. I've got the resources to do it.
+Apart from my own mirrors you can find his work at <a class="postlink" title="" href="http://holocausthandbooks.com/index.php?author_id=15" rel="nofollow" data-original-title="">Holocaust Handbooks</a>, as well. Have I missed anything, or do you want me to mirror other important work? Give me suggestions. You can reach me via the following <a title="Goy.Chat" href="https://60ych.net/">chat</a>. Any suggestions are welcome if you think it would be worth having the material archived. I've got the resources to do it.
 
 Enjoy! <img class="wpml_ico" src="https://k0nsl.org/blog/k1/plugins/wp-monalisa/icons/icon_thumbup.gif" alt="" />
 <div class="breaking-line br-style-1"></div>
