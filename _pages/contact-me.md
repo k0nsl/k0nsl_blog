@@ -30,15 +30,15 @@ metric-2-votes:
 metric-2-score:
   - "4.96"
 ---
-For now, the simplest method to contact me is by using <a href="https://survivor.k0nsl.org/webirc.html">irc.k0nsl.org</a>, and then join #k0nsl -- that is the ideal method, or in worst case: use my e-mail <a href="mailto:i.am@k0nsl.org">i.am@k0nsl.org</a>. My public OpenPGP key can be found at this location: <a href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0x1E8EBDDFEBEB8596">https://pgp.mit.edu/pks/lookup?op=vindex&search=0x1E8EBDDFEBEB8596</a>. I do prefer that you send me encrypted messages when contacting me, but it isn't a requirement. There is one other additional option for contacting me -- a Slack alternative, running at <a href="https://60ych.net" target="_blank">60ych.net</a>. It's 100% operated by me.
+For now, the simplest method to contact me is by using <a href="https://survivor.k0nsl.org/webirc.html">irc.k0nsl.org</a>, and then join #k0nsl -- that is the ideal method, or in worst case: use my e-mail <a href="mailto:i.am@k0nsl.org">i.am@k0nsl.org</a>. My public OpenPGP key can be found at this location: <a href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0x4288B82536A56A72">https://pgp.mit.edu/pks/lookup?op=vindex&search=0x4288B82536A56A72</a>. I do prefer that you send me encrypted messages when contacting me, but it isn't a requirement. There is one other additional option for contacting me -- a Slack alternative, running at <a href="https://60ych.net" target="_blank">60ych.net</a>. It's 100% operated by me.
 
 [box]
-Pub Key: <a href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0x1E8EBDDFEBEB8596" target="_blank">https://pgp.mit.edu/pks/lookup?op=vindex&search=0x1E8EBDDFEBEB8596</a>
+Pub Key: <a href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0x4288B82536A56A72" target="_blank">https://pgp.mit.edu/pks/lookup?op=vindex&search=0x4288B82536A56A72</a>
 
-Key ID: 0xEBEB8596
+Key ID: 0x36A56A72
 
 
-Fingerprint: 3D61 D4F6 F1D0 7232 7208 34AC 1E8E BDDF EBEB 8596
+Fingerprint: C5B4 2F8D CDE8 44A2 C8EE 9F84 4288 B825 36A5 6A72
 [/box]
 
 Alternatively you can also post a comment using the form below.
