@@ -13,7 +13,7 @@ published: true
 ---
 [box type="shadow"]
 I received this letter in 2004 and got permission to publish it on my now defunct 'holocaust detoxification' site. I have moved over most of the material on that site to this blog, it just isn't very easy to find it.<br /><br />
-At any rate, here is an excerpt from letters written by Ernst Zündel to Carlos W. Porter, dated 29 November 2004. As far as I'm aware these letters and the <a href="https://k0nsl.org/blog/detox/copy-of-reply-to-ernst-zundel-re-howard-fertig-edition-of-hitler-speeches/" target="_blank">subsequent reply by Carlos W</a>. Porter is only available on k0nsl.org and nowhere else -- unless somebody copied them.
+At any rate, here is an excerpt from letters written by Ernst Zündel to Carlos W. Porter, dated 29 November 2004. As far as I'm aware these letters and the <a href="https://k0nsl.org/blog/detox/copy-of-reply-to-ernst-zundel-re-howard-fertig-edition-of-hitler-speeches/" target="_blank">subsequent reply by Carlos W. Porter</a> is only available on k0nsl.org and nowhere else -- unless somebody copied them.
 
 [/box]
 
