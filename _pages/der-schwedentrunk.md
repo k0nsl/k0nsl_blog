@@ -29,7 +29,7 @@ The Spanish travelled all over the place, burning, pillaging, raping and robbing
 One of the Swedish specialities to obtain provisions from the pitiful, poor, already robbed German farmers was the following:
 
 <ul class="list-2">
-<li>Rape his women, that is to say, wife, daughters and any other female person in the vicinity. I mean, First things first, right?</li>
+<li>Rape his women, that is to say, wife, daughters and any other female person in the vicinity. I mean, first things first, right?</li>
 
 <li>Steal any and all livestock and have a giant Bar-B-Q using the barn as firewood.</li>
 
@@ -42,7 +42,7 @@ One of the Swedish specialities to obtain provisions from the pitiful, poor, alr
 <li>They'd tie the farmer down on the ground. Then they would piss into a bucket. Then they would force open the helpless man's mouth and keep it open with a stick. Then they would boil their urine. When it was at full boil, they would enter a funnel into the German farmers mouth and then the Swedes, those benign, <strong><em>"We have never done anything, oh no, heaven forbid"</em></strong> would pour the boiling urine into the funnel howling happily as the poor German farmer squirmed and muffled screams of terror, horror and death were gurgling from his violated body, while his raped and beaten womenfolk were going insane with grief, being forced to watch this inhuman, unimaginable spectacle.</li>
 </ul>
 
-This horror was committed so frequently the Germans coined a word for it: <strong><i>Der Schwedentrunk</i></strong>, The Swedish drink.
+This horror was committed so frequently the Germans coined a word for it: <strong><i>'Der Schwedentrunk'</i></strong>, The Swedish drink.
 
 <a href="https://cdn.k0nsl.org/blog/k1/uploads/2012/11/Der-Schwedentrunk01_k0nsl.jpg"><img src="https://cdn.k0nsl.org/blog/k1/uploads/2012/11/Der-Schwedentrunk01_k0nsl-300x156.jpg" alt="Der-Schwedentrunk01_k0nsl" width="300" height="156" class="aligncenter size-medium wp-image-5451" /></a>
 
@@ -63,6 +63,6 @@ The British, the Swedes, the Spanish and the <strong><em>"Peace-loving, benign a
 </ul>
 The religious hordes went wild. The raping, plundering and pillaging of Germany would not experience its equal until after WW2 when the <strong>"Liberators"</strong> liberated us Germans of everything imaginable, including our lives.
 
-[divider]Information[/divider]
+<div class="divider"><h5><span>Information</span></h5></div>
 Author: Gerry Frederics
 Editor: k0nsl
