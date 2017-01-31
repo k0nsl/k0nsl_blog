@@ -53,11 +53,11 @@ At the time when I used Piracetam I probably thought so too, but I can't remembe
 [caption title="The car accident" url="https://k0nsl.org/blog/k1/uploads/2012/10/the-car-crash-in-2009-01_k0nsl.png"]
 In any case this was quite interesting to try and I didn't have any negative effects, none that I or my doctors could find. Of course, I got my regular bloodwork done and everything like that. Seeing as this stuff is still being pushed by various companies it must mean there's still an interest for it, and that is understandable. Who wouldn't wish to enhance their mind further? Well I've already done it this way, and I did it for over a year every day. Now I'm more interested to hear other peoples thoughts on Piracetam - preferably specific details such as adverse effects, positive effects and in what sort of environment these positive effects were noted.
 
-If somebody is interested in this I urge them to actually research the matter until such time that you know exactly every detail about it, down to the molecules and atoms. Also just quickly From what I have found online, they are the <a style="text-decoration: none;" href="https://www.nixest.com"><span style="text-decoration: none; color: #000000;">best modafinil supplier online.</span></a> Don't look at user reviews, try to find actual studies and pieces published in medical journals, then read the user reviews and various other articles too - just for good measure <img class="wpml_ico" src="https://k0nsl.org/blog/wp-content/plugins/wp-monalisa/icons/wpml_wink.gif" alt="" />
+If somebody is interested in this I urge them to actually research the matter until such time that you know exactly every detail about it, down to the molecules and atoms. Don't look at user reviews, try to find actual studies and pieces published in medical journals, then read the user reviews and various other articles too - just for good measure <img class="wpml_ico" src="https://k0nsl.org/blog/wp-content/plugins/wp-monalisa/icons/wpml_wink.gif" alt="" />
 
 If you are a junkie and you think this will get you a "high" you're going to be sourly <a title="Hercules - DISAPPOINTED" href="http://www.youtube.com/watch?v=_O1hM-k3aUY">disappointed</a>.
 
-[divider]Basic reading[/divider]
+<div class="divider"><h5><span>Basic reading</span></h5></div>
 <ul>
 	<li><a title="Nootropics" href="http://en.wikipedia.org/wiki/Nootropic">http://en.wikipedia.org/wiki/Nootropic</a></li>
 	<li><a href="http://en.wikipedia.org/wiki/Oxiracetam">http://en.wikipedia.org/wiki/Oxiracetam</a></li>
