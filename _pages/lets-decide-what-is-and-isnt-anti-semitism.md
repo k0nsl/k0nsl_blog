@@ -21,7 +21,7 @@ metric-2-votes:
 metric-2-score:
   - "4"
 ---
-<span style="font-family: 'arial black', 'avant garde'; font-size: small;">I do not like the term "antisemitism" (with or without hyphens or capital letters); it has come to mean anything from opposition to a Jewish State to an aversion to chicken fat to a desire to send millions to death camps. Precision in thought demands precision in language. For the moment I will employ the term. However, in the interests of clarity, I suggest that those who wish to use it restrict it to mean only one thing: hating and desiring to harm people for no reason other than that they are deemed to be Jews, with or without their consent.</span>
+<strong>I do not like the term "antisemitism" (with or without hyphens or capital letters); it has come to mean anything from opposition to a Jewish State to an aversion to chicken fat to a desire to send millions to death camps. Precision in thought demands precision in language. For the moment I will employ the term. However, in the interests of clarity, I suggest that those who wish to use it restrict it to mean only one thing: hating and desiring to harm people for no reason other than that they are deemed to be Jews, with or without their consent.</strong>
 
 Definitions are not right or wrong; they are useful or not useful. According to my strict construction, the following acts do not constitute antisemitism:
 <ul>
