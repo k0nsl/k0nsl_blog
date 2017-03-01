@@ -53,6 +53,6 @@ There is no need for a special term for hatred of Jews, any more than for hatred
 This issue reminds me of the controversy over "hate-crime" legislation: <strong>every time someone commits an atrocity against a black person or a homosexual in America, the liberals demand new legislation against "hate-crimes," forgetting that there already exist laws against murder and assault.</strong>
 
 <div class="divider"><h5><span>Information</span></h5></div>
-The following text was archived from <strong>HOLOCAUST HISTORY ARCHIVE</strong>, a project operated by me (k0nsl) many years ago and which I started mainly a reaction to the 'holocaust' lie.
+The following text was archived from <strong>HOLOCAUST HISTORY ARCHIVE</strong>, a project operated by me (k0nsl) many years ago and which I started mainly as a reaction to the 'holocaust' lie.
 
 &nbsp;
