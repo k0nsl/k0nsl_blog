@@ -37,7 +37,7 @@ I used it more as a personal experience [or exercise, rather] and to really see 
 
 This may have been revised now, though. I don't know.
 
-My friends told me they thought I became much more boring, that's to say I probably became much more focused and concentrated than I was earlier <strong>-</strong> because prior to me getting older and wiser, impulse often dictated my actions, unfortunately.
+My friends told me they thought I had became much more boring after I had began taking the supplement, that's to say I probably became much more focused and concentrated on what I was doing, then I was earlier, because prior to me getting older and wiser, impulse often dictated my actions. Unfortunately.
 
 As for that company I mentioned earlier, for giggles, I looked up if they were still in business. They sure are. That's funny, I actually didn't anticipate that <img class="wpml_ico" src="https://k0nsl.org/blog/wp-content/plugins/wp-monalisa/icons/icon_eh.gif" alt="" />
 
