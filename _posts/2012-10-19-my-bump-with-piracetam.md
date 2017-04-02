@@ -55,7 +55,7 @@ In any case this was quite interesting to try and I didn't have any negative eff
 
 If somebody is interested in this I urge them to actually research the matter until such time that you know exactly every detail about it, down to the molecules and atoms. Don't look at user reviews, try to find actual studies and pieces published in medical journals, then read the user reviews and various other articles too - just for good measure <img class="wpml_ico" src="https://k0nsl.org/blog/wp-content/plugins/wp-monalisa/icons/wpml_wink.gif" alt="" />
 
-If you are a junkie and you think this will get you a "high" you're going to be sourly <a title="Hercules - DISAPPOINTED" href="http://www.youtube.com/watch?v=_O1hM-k3aUY">disappointed</a>. For that you will have to try another things, there are many on the market better than trying pills, now a days you can even <a style="text-decoration: none;" href="https://cannabismo.ca/"><span style="text-decoration: none; color: #333;">buy weed online canada</span></a> or else.
+If you are a junkie and you think this will get you a "high" you're going to be sourly <a title="Hercules - DISAPPOINTED" href="http://www.youtube.com/watch?v=_O1hM-k3aUY">disappointed</a>.
 
 <div class="divider"><h5><span>Basic reading</span></h5></div>
 <ul>
