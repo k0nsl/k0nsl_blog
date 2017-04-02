@@ -30,15 +30,15 @@ metric-2-votes:
 metric-2-score:
   - "4.96"
 ---
-For now, the simplest method to contact me is by using <a href="https://survivor.k0nsl.org/webirc.html">irc.k0nsl.org</a>, and then join #k0nsl -- that is the ideal method, or in worst case: use my e-mail <a href="mailto:i.am@k0nsl.org">i.am@k0nsl.org</a>. My public OpenPGP key can be found at this location: <a href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0x4288B82536A56A72">https://pgp.mit.edu/pks/lookup?op=vindex&search=0x4288B82536A56A72</a>. I do prefer that you send me encrypted messages when contacting me, but it isn't a requirement. There is one other additional option for contacting me -- a Slack alternative, running at <a href="https://60ych.net" target="_blank">60ych.net</a>. It's 100% operated by me.
+For now, the simplest method to contact me is by using <a href="https://survivor.k0nsl.org/webirc.html">irc.k0nsl.org</a>, and then join #k0nsl -- that is the ideal method, or in worst case: use my e-mail <a href="mailto:i.am@k0nsl.org">i.am@k0nsl.org</a>. My public GnuPGP key can be found at this location: <a href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0x7272DBC1">https://pgp.mit.edu/pks/lookup?op=vindex&search=0x7272DBC1</a>. I do prefer that you encrypt your message when sending to me over e-mail, <s>but it isn't a requirement</s>. There is one other additional option for contacting me -- a Slack alternative, running at <a href="https://60ych.net" target="_blank">60ych.net</a>. It's 100% operated by me but not always open for registration (i.e "invite only").
 
 [box]
-Pub Key: <a href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0x4288B82536A56A72" target="_blank">https://pgp.mit.edu/pks/lookup?op=vindex&search=0x4288B82536A56A72</a>
+Pub Key: <a href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0x7272DBC1" target="_blank">https://pgp.mit.edu/pks/lookup?op=vindex&search=0x7272DBC1</a>
 
-Key ID: 0x36A56A72
+Key ID: 0x7272DBC1
 
 
-Fingerprint: C5B4 2F8D CDE8 44A2 C8EE 9F84 4288 B825 36A5 6A72
+Fingerprint: 80D8 E5E6 FCEE 876A 451C  0955 2DB7 C1CC 7272 DBC1
 [/box]
 
 Alternatively you can also post a comment using the form below.
@@ -56,5 +56,5 @@ Byez. <img class="wpml_ico" alt="" src="/blog/k1/plugins/wp-monalisa/icons/icon
 
 Now you can easily connect and speak with me via this web based IRC client, see:
 
-<a href="https://irc.k0nsl.org/">https://irc.k0nsl.org/</a>
+<a href="https://survivor.k0nsl.org/webirc.html">https://survivor.k0nsl.org/webirc.html</a>
 (alternative webIRC client: <a href="https://webirc.k0nsl.ru">https://webirc.k0nsl.ru</a>)
