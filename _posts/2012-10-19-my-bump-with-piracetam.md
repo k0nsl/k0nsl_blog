@@ -49,19 +49,20 @@ Somebody from Pennsylvania wrote:
 <blockquote>Amazing: Awakens Your Mind</blockquote>
 Chris Baker from Brighton said:
 <blockquote>Enhanced perception and enjoyment of music</blockquote>
-At the time when I used Piracetam I probably thought so too, but I can't remember exactly everything now (I was involved in a terrible car accident and my head took most of the damage - I still have the photographs of the car wreck (a little Volkswagen Golf) someplace, totally wrecked).
+At the time when I used Piracetam I probably thought so too, but I can't remember exactly everything now (I was involved in a terrible car accident and my head took most of the damage - I still have the photographs of the car wreck (a little Volkswagen Golf) someplace, totally wrecked). Luckily I visited <a style="text-decoration: none;" href="http://www.myhealth.ca/chiropractor.html"><span style="text-decoration: none; color: #333;">Chiropractor Mississauga</span></a> and help with most of my problems.
 <img src="https://k0nsl.org/blog/k1/uploads/2012/10/the-car-crash-in-2009-01_k0nsl.png" alt="" />
 In any case this was quite interesting to try and I didn't have any negative effects, none that I or my doctors could find. Of course, I got my regular blood work done and everything like that. Seeing as this stuff is still being pushed by various companies it must mean there's still an interest for it, and that is understandable. Who wouldn't wish to enhance their mind further? Well I've already done it this way, and I did it for over a year every day. Now I'm more interested to hear other peoples thoughts on Piracetam - preferably specific details such as adverse effects, positive effects and in what sort of environment these positive effects were noted.
 
 If somebody is interested in this I urge them to actually research the matter until such time that you know exactly every detail about it, down to the molecules and atoms. Don't look at user reviews, try to find actual studies and pieces published in medical journals, then read the user reviews and various other articles too - just for good measure <img class="wpml_ico" src="https://k0nsl.org/blog/wp-content/plugins/wp-monalisa/icons/wpml_wink.gif" alt="" />
 
 If you are a junkie and you think this will get you a "high" you're going to be sourly <a title="Hercules - DISAPPOINTED" href="http://www.youtube.com/watch?v=_O1hM-k3aUY">disappointed</a>.
-
-<div class="divider"><h5><span>Basic reading</span></h5></div>
+<div class="divider">
+<h5>Basic reading</h5>
+</div>
 <ul>
 	<li><a title="Nootropics" href="http://en.wikipedia.org/wiki/Nootropic">http://en.wikipedia.org/wiki/Nootropic</a></li>
 	<li><a href="http://en.wikipedia.org/wiki/Oxiracetam">http://en.wikipedia.org/wiki/Oxiracetam</a></li>
 	<li><a href="http://en.wikipedia.org/wiki/Piracetam">http://en.wikipedia.org/wiki/Piracetam</a></li>
 	<li><a title="Piracetam: a review of pharmacological properties and clinical uses." href="http://www.ncbi.nlm.nih.gov/pubmed/16007238">Piracetam: a review of pharmacological properties and clinical uses.</a> (PubMed)</li>
 </ul>
-As you see, I am quite versatile. <img class='wpml_ico' alt='' src='https://k0nsl.org/blog/k1/plugins/wp-monalisa/icons/evilgrin39.gif' />
+As you see, I am quite versatile. <img class="wpml_ico" src="https://k0nsl.org/blog/k1/plugins/wp-monalisa/icons/evilgrin39.gif" alt="" />
