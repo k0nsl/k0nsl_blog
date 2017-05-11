@@ -40,11 +40,15 @@ I found this really illustrative video today via <strong><a href="http://forum.
 
 Some people probably don't know that the Jews had pushed the "six million"-figure long, long before the Germans (or Nazis if you prefer) were even accused of such hate stories.
 
-But I guess it's only matter of shrugging it off and get on with the belief, eh? Unfortunately belief in the Holocaust takes precedence over most things - even when it is a matter of facts. This video clearly shows that the idea of the six million is nothing new and that it indeed is fact that it was tried as a concept many a time before they finally succeeded in pulling it off with the Germans.
+But I guess it's only matter of shrugging it off and get on with the belief, eh? Unfortunately belief in the Holocaust takes precedence over most things - even when it is a matter of facts. This video clip clearly shows that the idea of the six million is nothing new and that it was tried as a concept several times before they finally succeeded in pulling it off after WWII had ended.
 
-Imagine, all that tax we've been paying could have gone to better health care, better schools and generally a better life for ourselves...but now we're stuck with a people bombarding us with hateful innuendo and they've made the bizarre nonsense sacrosanct and even illegal for us to question. If you want better health exercise is something you want to consider, I recommend reading <a style="text-decoration: none;" href="http://waisttraineraz.com/ann-chery-womens-workout-waist-cincher-review/"><span style="text-decoration: none; color: #2e4453;">ann chery reviews </span></a> to get the best results. 
+Imagine this, all that tax we've been paying could have gone to better health care, better schools and generally a better life for ourselves...but now we're stuck with a people bombarding us with hateful innuendo, lies and perverts everything; they've even made the bizarre nonsense sacrosanct and illegal for us to question!
 
-What a tragedy that many of us are so gullible - the problem lies in the fact that we're generally very loving, all heart. Too loving and too kind; and it has led to our downfall time and time immemorial.
+What a tragedy that many of us are so gullible. The problem lies in the fact that we're generally very loving, all heart and way too guileless -- too loving, too kind and honest have led to our downfall time and time immemorial.
+
+[divider]Watch[/divider]
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Dda-0Q_XUhk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 [divider]Download[/divider]
 
@@ -52,6 +56,6 @@ For now, use this link:
 
 <a href="http://www.savevid.com/?url=http://www.youtube.com/watch?v=Dda-0Q_XUhk" target="_blank">http://www.savevid.com/?url=http://www.youtube.com/watch?v=Dda-0Q_XUhk</a>
 
-I will upload it to <a href="http://wnlibrary.com" target="_blank">WNLibrary</a> tomorrow.
+I will upload it to <s><a href="http://wnlibrary.com" target="_blank">WNLibrary</a></s> [defunct] tomorrow.
 
  
