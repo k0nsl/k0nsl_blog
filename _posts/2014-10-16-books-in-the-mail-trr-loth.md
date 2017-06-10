@@ -23,7 +23,11 @@ ag_author_style:
 post_views_count:
   - "208"
 ---
-[caption title="Two essential books" url="https://k0nsl.org/blog/k1/uploads/2014/10/trr-loh06_k0nsl.jpg"]
+<div class="centered-image">
+<div class="frame-border"></div>
+<img src="/blog/k1/themes/hiero/timthumb.php?src=https://k0nsl.org/blog/k1/uploads/2014/10/trr-loh06_k0nsl.jpg&amp;w=390&amp;h=250&amp;zc=1&amp;q=100" alt="Two essential books">
+<span class="caption-text">Two essential books</span>
+</div>
 
 I received a couple of very interesting books today in the mail; the mail man came honking his horn and I ran outside in anticipation for what I knew was already coming...
 
