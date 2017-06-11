@@ -35,7 +35,7 @@ I received a couple of very interesting books today in the mail; the mail man ca
 
 As I opened the package I was happy to see that both of the books survived the ordeal of the postal service, having received a big gushing hole in the package, which was big enough to reveal the contents therein. The books themselves weren't damaged.
 
-What of the contents? Here they are, signed and dedicated by <a href="http://germarrudolf.com/" target="_blank">Germar</a>. I withheld my name for my own safety:
+What of the contents? Here they are, signed and dedicated by <a href="http://germarrudolf.com/" target="_blank">Germar Rudolf</a>. I withheld my name for my own safety:
 
 [gallery link="file" ids="6386,6387,6391,6390"]
 
