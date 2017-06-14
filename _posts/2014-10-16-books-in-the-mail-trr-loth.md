@@ -25,7 +25,7 @@ post_views_count:
 ---
 <div class="centered-image">
 <div class="frame-border"></div>
-<img src="/blog/k1/themes/hiero/timthumb.php?src=https://k0nsl.org/blog/k1/uploads/2014/10/trr-loh06_k0nsl.jpg&amp;w=390&amp;h=250&amp;zc=1&amp;q=100" alt="Two essential books">
+<img src="/blog/k1/themes/hiero/k0nsl_thumb.php?src=https://k0nsl.org/blog/k1/uploads/2014/10/trr-loh06_k0nsl.jpg&amp;w=390&amp;h=250&amp;zc=1&amp;q=100" alt="Two essential books">
 <span class="caption-text">Two essential books</span>
 </div>
 
