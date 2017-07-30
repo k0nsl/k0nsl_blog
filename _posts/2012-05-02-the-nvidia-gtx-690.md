@@ -8,33 +8,6 @@ layout: post
 permalink: >
   https://k0nsl.org/blog/the-nvidia-gtx-690/
 published: true
-yourls_shorturl:
-  - http://jubbads.com/6q
-sfw_comment_form_password:
-  - IRyPKDXBEG1q
-yourls_tweeted:
-  - "1"
-twipub_short_url_main:
-  - >
-    http://k0nsl.org/blog/the-nvidia-gtx-690/
-twipub_tweeted:
-  - "1"
-suf_magazine_excerpt:
-  - 'on'
-project10_post_views_count:
-  - "136"
-post_views_count:
-  - "674"
-tmac_last_id:
-  - "398145029115367425"
-metric-1-votes:
-  - "2"
-metric-1-score:
-  - "0"
-metric-2-votes:
-  - "1"
-metric-2-score:
-  - "4"
 ---
 Whew ! I just glanced at some images and reviews / previews of Nvidia's GTX 690 GPU and this thing looks fantastic, but not only that, the core seems to be fantastic also.
 
