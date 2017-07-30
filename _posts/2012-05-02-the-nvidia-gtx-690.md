@@ -5,8 +5,7 @@ author: k0nsl
 post_date: 2012-05-02 11:18:54
 post_excerpt: ""
 layout: post
-permalink: >
-  https://k0nsl.org/blog/the-nvidia-gtx-690/
+permalink: https://k0nsl.org/blog/the-nvidia-gtx-690/
 published: true
 ---
 Whew ! I just glanced at some images and reviews / previews of Nvidia's GTX 690 GPU and this thing looks fantastic, but not only that, the core seems to be fantastic also.
